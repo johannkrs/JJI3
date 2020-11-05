@@ -1,0 +1,17 @@
+.login{
+   background-color: rgba(0, 128, 0, 0.6);
+   width: 25%;
+   margin-top: -40%;
+   margin-right: 5%;
+   z-index: 100;
+   float: right;
+   position: relative;
+   font-family: 'Times New Roman', Times, serif;
+   color: black;
+   border-radius: 10px;
+}
+.logintitu{
+    opacity: 100%;
+    font-size: 30px;
+    text-align: center;
+}
